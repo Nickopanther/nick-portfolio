@@ -1,0 +1,32 @@
+.details h2 {
+    font-size: 3em;
+    font-weight: 550;
+}
+
+.details p {
+    font-size: 1.5em;
+}
+
+.html {
+    margin-top: 40px;
+}
+
+.featured {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.alexaSkill {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.btn {
+    display: inline-block;
+    background: #d42990;
+    padding: 10px 16px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+}
